@@ -1,77 +1,58 @@
+<!-- 🌈 Animated gradient banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=220&section=header&text=Hey%2C%20I'm%20Aditya!%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Dev%20•%20AI%20Builder%20•%20Creative%20Coder&descAlignY=58&descSize=20" width="100%"/>
+</div>
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aaditya%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20Developer%20%7C%20Builder%20%7C%20Explorer&descAlignY=52&descSize=18"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Chasing+powerful+systems+%F0%9F%94%A5;That+rare+moment+when+code+feels+alive+%E2%9C%A8;Currently+learning.+Constantly+building.+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- ⌨️ Typing animation -->
+<div align="center">
+  <a href="https://github.com/Aditya011-gif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=I+build+full-stack+web+apps+🚀;I+craft+AI+%26+LLM-powered+tools+🤖;I+make+the+web+move+with+Three.js+✨;Always+shipping%2C+always+learning+⚡" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Aaditya011-gif&style=for-the-badge&color=ff6ec7&labelColor=1a1a2e" alt="Profile Views"/>
-<a href="https://github.com/Aaditya011-gif?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aaditya011-gif?style=for-the-badge&color=00d9ff&labelColor=1a1a2e&logo=github" alt="Followers"/>
-</a>
-
+<!-- 👀 Profile views + socials -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya011-gif&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+  <!-- ✏️ Replace # with your real links -->
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDV0Y2JqOXBhMXV0NnBha2dvZHF0ZWNlMHd3NWE5YjhraHQ0cGlsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+## 🧑‍🚀 About Me
 
-## ⚡ About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 
-
-const aryan = {
-    location: "India 🇮🇳",
-    role: "Student Developer & Freelancer",
-    passions: ["AI", "Security", "Linux", "Web Apps", "Mobile Apps"],
-    currentlyBuilding: "Phantom 👻",
-    motto: "Code should feel alive"
-};
-
-
-- 🔭 Working on **2+ production-ready projects**
-- 🌱 Learning **everything that excites me**
-- 🎯 Focused on **AI & Security**
-- 💬 Ask me about **React, Node.js, Flutter, or anything tech**
-- ⚡ Fun fact: **I turn caffeine into code**
+- 🔭 Currently building **full-stack apps & AI-powered tools**
+- 🤖 Exploring **LLMs, agents & the future of AI engineering**
+- 🎨 In love with **Three.js, GSAP & creative frontend magic**
+- 🌱 Always learning something new — currently: `<!-- ✏️ add here -->`
+- 💬 Ask me about **JavaScript, Python, or making websites *move***
+- ⚡ Fun fact: `<!-- ✏️ add a fun fact -->`
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp&theme=dark" alt="Languages"/>
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🚀 Frontend & Creative
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,vite,figma&theme=dark" alt="Frontend"/>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ⚙️ Backend & AI
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,fastapi,tensorflow&theme=dark" alt="Backend & AI"/>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,postman&theme=dark" alt="Tools"/>
 
 </div>
 
@@ -80,84 +61,58 @@ const aryan = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya011-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya011-gif&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryanndeswall&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff6ec7" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanndeswall&theme=synthwave&hide_border=true&background=0d1117&stroke=ff6ec7&ring=ff6ec7&fire=00d9ff&currStreakLabel=ff6ec7" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Aditya011-gif&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak"/>
+</div>
 
-<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya011-gif&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanndeswall&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9" alt="Top Languages"/>
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya011-gif/Aditya011-gif/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya011-gif/Aditya011-gif/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/Aditya011-gif/Aditya011-gif/output/github-snake-dark.svg" alt="Snake eating contributions"/>
+  </picture>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<!-- ✏️ Swap these placeholders with your real repos -->
+<div align="center">
+
+| 🚀 Project | 📝 What it does | 🔧 Built with |
+|:----------:|:----------------|:--------------|
+| [**Project One**](https://github.com/Aditya011-gif) | Short punchy description of your coolest project | `React` `Node.js` |
+| [**Project Two**](https://github.com/Aditya011-gif) | An AI-powered something-awesome | `Python` `LLM APIs` |
+| [**Project Three**](https://github.com/Aditya011-gif) | A creative 3D web experience | `Three.js` `GSAP` |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Activity Graph
 
 <div align="center">
-
-![Commits](https://img.shields.io/badge/Total%20Commits-49+-ff6ec7?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Repositories-16-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
-![Stars](https://img.shields.io/badge/Stars%20Earned-6-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117)
-![PRs](https://img.shields.io/badge/Pull%20Requests-Open-28a745?style=for-the-badge&logo=git-merge&logoColor=white&labelColor=0d1117)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya011-gif&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true" alt="Activity graph"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
+<!-- 🌊 Footer wave -->
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanndeswall&bg_color=0d1117&color=ff6ec7&line=00d9ff&point=ff6ec7&area=true&area_color=ff6ec7&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:aryandeswal2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/aryanndeswall/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/aryanndeswall">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://instagram.com/aryanndeswall">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://snapchat.com/add/aryanndeswall">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"/>
-</a>
-<a href="https://discord.com/users/aryanndeswall">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-**Thanks for stopping by!** 🚀
-
-*If you like what you see, consider giving my repos a ⭐*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=140&section=footer" width="100%"/>
+  <b>💜 Thanks for stopping by — let's build something awesome together!</b>
+  <br/><br/>
 </div>
